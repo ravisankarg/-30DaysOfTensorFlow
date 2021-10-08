@@ -2,7 +2,7 @@
 Learn TensorFlow in 30days! 
 
 ## day1
-### key concepts 
+### key concepts of lite
 * Optimized for on-device machine learning, by addressing key constraints: 
   * latency (there's no round-trip to a server),
   * privacy (no personal data leaves the device), 
@@ -13,4 +13,12 @@ Learn TensorFlow in 30days!
 Key Point: The TensorFlow Lite binary is ~1MB when all 125+ supported operators are linked (for 32-bit ARM builds), and less than 300KB when using only the operators needed for supporting the common image classification models InceptionV3 and MobileNet.
 
 * Diverse language support, which includes Java, Swift, Objective-C, C++, and Python.
+
+## day2
+* installed anaconda and added tf packages
+* tried matmul ops in tf 2.0 
+* learned difference between eager execution vs lazy
+
+## day3
+
 
